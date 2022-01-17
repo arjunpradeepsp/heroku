@@ -4,6 +4,6 @@ from . import views
 
 
 urlpatterns=[
-    path('fnstar/',views.fnstar)
+    path('',views.fnstar)
 
 ]
